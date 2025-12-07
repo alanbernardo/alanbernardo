@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Alan%20Bernardo-Analista%20de%20Dados%20em%20Formação-4c9aff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGAAAAAEAAGjCh0EAAAAAElFTkSuQmCC&logoColor=white" height="70"/>
+  <img src="https://img.shields.io/badge/Alan%20Bernardo-Analista%20de%20Dados-4c9aff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGAAAAAEAAGjCh0EAAAAAElFTkSuQmCC&logoColor=white" height="70"/>
 </p>
 
 <p align="center">
@@ -15,46 +15,48 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-🖥️ Olá! Seja bem-vindo ao meu perfil no GitHub!
+## 🖥️ Olá! Seja bem-vindo ao meu perfil no GitHub!
 
-Eu sou Alan, um Analista de Dados em formação, apaixonado por transformar dados em insights importantes para decisões estratégicas.
-Este perfil serve como meu espaço para compartilhar projetos, aprender e colaborar.
+Eu sou Alan, **Analista de Dados**, apaixonado por transformar dados em insights relevantes para decisões estratégicas.  
+Este perfil reúne meus projetos, estudos aplicados e análises desenvolvidas em SQL, Excel, Python e Power BI.
 
-🔍 Sobre Mim
+---
 
-🎓 Atualmente estudando Excel, SQL, Python e Power BI como parte da minha formação.
+## 🔍 Sobre Mim
 
-📈 Experiência prática em análise de dados, desenvolvendo dashboards e indicadores relevantes para o negócio.
+- 📈 Atuo com **análise de dados**, desenvolvendo dashboards, KPIs e indicadores de negócio.
+- 📊 Experiência prática com **SQL, Excel, Python e Power BI** para exploração, consulta e visualização de dados.
+- 🌱 Interesse contínuo em **estatística, modelagem, visualização e automação de análises**.
+- 🎯 **Objetivo:** entregar análises claras, confiáveis e orientadas ao apoio à decisão.
 
-🌱 Explorando novas habilidades em estatística, visualização de dados e ferramentas de BI.
+---
 
-🎯 Objetivo: Me tornar um analista de dados que entrega valor através de insights claros, análises confiáveis e storytelling visual.
+## 📂 Projetos
 
-📂 Projetos
-🔹 1. Análise de Funil de Vendas — SQL + Excel (Dashboard Completo)
+🔹1. Análise de Funil de Vendas — SQL + Excel (Dashboard Completo)
+Status: ✔ Finalizado  
+Tecnologias: SQL, Excel  
 
-Status: ✔ Finalizado
-Tecnologias: SQL, Excel
 Descrição:
-Projeto guiado no qual analisei visitas, leads, vendas, conversão, receita e ticket médio ao longo dos meses.
-Inclui consultas SQL organizadas, estrutura completa de métricas e dashboard no Excel.
+Projeto no qual analisei visitas, leads, vendas, conversão, receita e ticket médio ao longo dos meses.  
+Inclui consultas SQL estruturadas, consolidação de métricas e dashboard completo no Excel.
 
 🔗 Repositório do projeto: [adicionar link quando estiver criado]
 
-🛠️ Ferramentas e Tecnologias
+---
 
-- Linguagens e Ferramentas: SQL, Excel, Python, Power BI
+## 🛠️ Ferramentas e Tecnologias
 
-- Habilidades em Análise de Dados:
+- Linguagens e Ferramentas: SQL, Excel, Python, Power BI  
+- Habilidades em Análise de Dados:  
+  - Organização, transformação e limpeza de dados  
+  - Construção de dashboards e visualizações  
+  - Interpretação de métricas e insights de negócio  
+  - Elaboração de análises para apoio à tomada de decisão  
 
-- Organização, transformação e limpeza de dados
+---
 
-- Visualização com gráficos e dashboards
+## 📬 Contato
 
-- Interpretação e comunicação de insights para tomada de decisão
-
-📬 Contato
-
-LinkedIn: https://www.linkedin.com/in/alan-bernardo-5a5b56209/
-
-E-mail: bernnardo58@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/alan-bernardo-5a5b56209/  
+✉️ **E-mail:** bernnardo58@gmail.com
