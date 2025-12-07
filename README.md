@@ -41,7 +41,7 @@ Descrição:
 Projeto no qual analisei visitas, leads, vendas, conversão, receita e ticket médio ao longo dos meses.  
 Inclui consultas SQL estruturadas, consolidação de métricas e dashboard completo no Excel.
 
-🔗 Repositório do projeto: [adicionar link quando estiver criado]
+🔗 Repositório do projeto: (https://github.com/alanbernardo/analise-funil-vendas-sql-excel)
 
 ---
 
