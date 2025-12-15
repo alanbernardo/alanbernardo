@@ -64,8 +64,6 @@ https://github.com/alanbernardo/dashboard-churn-sql-excel
 ---
 
 
----
-
 ## 🛠️ Ferramentas e Tecnologias
 
 - Linguagens e Ferramentas: SQL, Excel, Python, Power BI  
