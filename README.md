@@ -31,26 +31,38 @@ Este perfil reúne meus projetos, estudos aplicados e análises desenvolvidas em
 
 ---
 
-## 📂 Projetos
+📂 **Projetos**
 
-1. Análise de Funil de Vendas — SQL + Excel (Dashboard Completo)
-Status: ✅ Finalizado  
-Tecnologias: SQL (PostgreSQL), Excel  
+---
 
-Descrição:
+### 1. Análise de Funil de Vendas — SQL + Excel (Dashboard Completo)  
+**Status:** ✅ Finalizado  
+**Tecnologias:** SQL (PostgreSQL), Excel  
+
+**Descrição:**  
 Projeto no qual analisei visitas, leads, vendas, conversão, receita e ticket médio ao longo dos meses.  
-Inclui consultas SQL estruturadas, consolidação de métricas e dashboard completo no Excel.
-🔗 Repositório do projeto: https://github.com/alanbernardo/analise-funil-vendas-sql-excel
+Inclui consultas SQL estruturadas, consolidação de métricas e construção de um dashboard completo no Excel.  
 
+🔗 **Repositório do projeto:**  
+https://github.com/alanbernardo/analise-funil-vendas-sql-excel
 
-2. Dashboard de Churn de Clientes — SQL + Excel (Análise de Retenção)  
-Status: ✅ Finalizado  
-Tecnologias: SQL (PostgreSQL), Excel  
+---
 
-Descrição:  
-Projeto focado na análise de churn de clientes, com modelagem de dados em PostgreSQL e construção de um dashboard analítico em Excel. Foram analisados indicadores como total de clientes, clientes cancelados, churn rate (%), média de dias ativos antes do cancelamento, além da distribuição de cancelamentos por plano, estado e nível de risco de churn.  
-O projeto inclui consultas SQL para criação das tabelas, carga de dados e extração das informações utilizadas no dashboard, com visualizações claras voltadas para apoio à tomada de decisão.
-🔗 Repositório do projeto:  https://github.com/alanbernardo/dashboard-churn-sql-excel
+### 2. Dashboard de Churn de Clientes — SQL + Excel (Análise de Retenção)  
+**Status:** ✅ Finalizado  
+**Tecnologias:** SQL (PostgreSQL), Excel  
+
+**Descrição:**  
+Projeto focado na análise de churn de clientes, com modelagem de dados em PostgreSQL e construção de um dashboard analítico em Excel.  
+Foram analisados indicadores como total de clientes, clientes cancelados, churn rate (%), média de dias ativos antes do cancelamento, além da distribuição de cancelamentos por plano, estado e nível de risco de churn.  
+
+O projeto inclui consultas SQL para criação das tabelas, carga de dados e extração das informações utilizadas no dashboard, com visualizações claras voltadas para apoio à tomada de decisão.  
+
+🔗 **Repositório do projeto:**  
+https://github.com/alanbernardo/dashboard-churn-sql-excel
+
+---
+
 
 ---
 
