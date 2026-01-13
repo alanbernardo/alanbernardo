@@ -37,6 +37,7 @@ Este perfil reúne meus projetos, estudos aplicados e análises desenvolvidas em
 **Tecnologias:** SQL (PostgreSQL), Excel
 
 **Descrição:** Projeto no qual analisei visitas, leads, vendas, conversão, receita e ticket médio ao longo dos meses. Inclui consultas SQL estruturadas, consolidação de métricas e construção de um dashboard completo no Excel. 
+
 🔗 **Repositório do projeto:** https://github.com/alanbernardo/analise-funil-vendas-sql-excel 
 
 --- 
@@ -45,6 +46,7 @@ Este perfil reúne meus projetos, estudos aplicados e análises desenvolvidas em
 **Tecnologias:** SQL (PostgreSQL), Excel 
 
 **Descrição:** Projeto focado na análise de churn de clientes, com modelagem de dados em PostgreSQL e construção de um dashboard analítico em Excel. Foram analisados indicadores como total de clientes, clientes cancelados, churn rate (%), média de dias ativos antes do cancelamento, além da distribuição de cancelamentos por plano, estado e nível de risco de churn. O projeto inclui consultas SQL para criação das tabelas, carga de dados e extração das informações utilizadas no dashboard, com visualizações claras voltadas para apoio à tomada de decisão.
+
 🔗 **Repositório do projeto:** https://github.com/alanbernardo/dashboard-churn-sql-excel 
 
 ---
@@ -54,6 +56,7 @@ Status: ✅ Finalizado
 Tecnologias: SQL (PostgreSQL), Excel 
 
 **Descrição:** Projeto focado na análise do perfil de leads, a partir de dados demográficos, socioeconômicos e comportamentais, com utilização de consultas SQL em PostgreSQL e construção de um dashboard analítico em Excel. O projeto inclui queries SQL estruturadas, utilizadas para agregação e cálculo de métricas como distribuição por gênero, status profissional, faixa etária, faixa salarial, classificação do veículo (novo x seminovo) e modelos mais visitados. As consultas foram organizadas em uma aba específica no Excel, assim como os resultados extraídos do PostgreSQL, que serviram de base direta para a criação dos gráficos e visualizações do dashboard final.
+
 🔗 **Repositório do projeto:** https://github.com/alanbernardo/An-lise-de-perfil
 
 ## 🛠️ Ferramentas e Tecnologias
