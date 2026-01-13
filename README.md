@@ -59,6 +59,8 @@ Tecnologias: SQL (PostgreSQL), Excel
 
 🔗 **Repositório do projeto:** https://github.com/alanbernardo/An-lise-de-perfil
 
+---
+
 ## 🛠️ Ferramentas e Tecnologias
 
 - Linguagens e Ferramentas: SQL, Excel, Python, Power BI  
