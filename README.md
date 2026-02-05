@@ -39,7 +39,7 @@ Este perfil reúne meus projetos, estudos aplicados e análises desenvolvidas em
 
 **Descrição:** Projeto de BI no varejo em que modelei e consultei os dados em SQLite (tabelas dimensão + fato e views de KPIs), conectei via ODBC ao Power BI e construí um dashboard com indicadores de faturamento líquido, itens vendidos, número de vendas, ticket médio e margem (%), além de análises por mês, categoria, loja e ranking de produtos.
 
-🔗 **Repositório do projeto:** 
+🔗 **Repositório do projeto:** https://github.com/alanbernardo/analise-varejo-powerbi-sqlite
 
 ---
 ###  Análise de Funil de Vendas — SQL + Excel (Dashboard Completo)
