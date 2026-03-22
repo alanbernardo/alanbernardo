@@ -35,7 +35,7 @@ Projeto completo de BI com modelagem de dados, consultas SQL e construção de d
 - Criação de métricas de negócio (faturamento, ticket médio, margem)
 - Integração SQL (SQLite) com Power BI
 
-🔗 [Ver projeto](https://github.com/alanbernardo/analyse-varejo-powerbi-sqlite)
+🔗 [Ver projeto](https://github.com/alanbernardo/analise-varejo-powerbi-sqlite)
 
 ---
 
