@@ -70,7 +70,43 @@ Projetos desenvolvidos individualmente a partir de desafios práticos (Data Scie
 - Identificação de tendências de mercado
 - Visualização interativa de dados financeiros
 
-🔗 [Ver projeto](COLE AQUI O LINK)
+🔗 [Ver projeto](https://github.com/alanbernardo/stock-market-analytics-dashboard)
+
+---
+
+### 📊 Dashboard de Análise Financeira com Power BI (SQL + Excel)
+- Análise de receitas, despesas e margem de lucro
+- Identificação de fontes de receita e centros de custo
+- Avaliação da evolução financeira e segmentação dos dados
+
+🔗 [Ver projeto](https://github.com/alanbernardo/Dashboard-de-An-lise-Financeira-com-Power-BI)
+
+---
+
+### 📊 Power BI Balance Sheet Matrix (Power BI)
+- Estruturação do balanço patrimonial com hierarquia de contas
+- Análise da composição de ativos, passivos e posição financeira
+- Avaliação da evolução e variações ao longo dos períodos
+
+🔗 [Ver projeto](https://github.com/alanbernardo/powerbi-balance-sheet-matrix)
+
+---
+
+### 📊 Análise de Dados de RH com Power BI(Power BI)
+- Análise de indicadores de RH (salário, experiência e engajamento)
+- Identificação de padrões e distribuição da força de trabalho
+- Geração de insights para suporte à gestão estratégica de pessoas
+
+🔗 [Ver projeto](https://github.com/alanbernardo/powerbi-rh-analytics-dashboard)
+
+---
+
+### 📊 Análise de Campanhas de Marketing com Power BI (Power BI)
+- Análise de perfil de clientes e comportamento de consumo
+- Avaliação da efetividade de campanhas de marketing
+- Identificação de canais de venda e drivers de receita
+
+🔗 [Ver projeto](https://github.com/alanbernardo/An-lise-Campanha-Marketing-Powerbi)
 
 ---
 
@@ -109,4 +145,4 @@ Atuar como Analista de Dados / BI, contribuindo com análises que gerem valor re
 ## 📫 Contato
 
 🔗 LinkedIn: https://www.linkedin.com/in/alan-bernardo-5a5b56209/  
-📧 Email: bernardo58@gmail.com
+📧 Email: bernnardo58@gmail.com
