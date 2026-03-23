@@ -39,6 +39,20 @@ Projeto completo de BI com modelagem de dados, consultas SQL e construção de d
 
 ---
 
+📊 Data Quality & Outlier Detection (Power BI)
+
+Projeto focado na melhoria da qualidade de dados através de análise estatística e identificação de outliers para suporte à tomada de decisão
+
+Análise estatística (mínimo, máximo, média, mediana, desvio padrão)
+Identificação de outliers e inconsistências nos dados
+Construção de medida de moda com DAX (lógica analítica)
+Visualização de dispersão para suporte à limpeza de dados
+
+
+🔗 [Ver projeto](https://github.com/alanbernardo/Data_Quality_Outlier_Detection_PowerBI).
+
+---
+
 ### 📈 Análise de Funil de Vendas (SQL + Excel)
 Análise completa do funil de vendas, desde visitas até conversão final.
 
