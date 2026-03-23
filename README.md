@@ -49,7 +49,7 @@ Construção de medida de moda com DAX (lógica analítica)
 Visualização de dispersão para suporte à limpeza de dados
 
 
-🔗 [Ver projeto](https://github.com/alanbernardo/Data_Quality_Outlier_Detection_PowerBI).
+🔗 [Ver projeto](https://github.com/alanbernardo/Data_Quality_Outlier_Detection_PowerBI)
 
 ---
 
