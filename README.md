@@ -39,7 +39,7 @@ Integração PostgreSQL com Power BI
 Construção de dashboard com KPIs, filtros e visualizações estratégicas
 Geração de insights e recomendações para tomada de decisão
 
-🔗 Ver projeto: (https://github.com/alanbernardo/An-ilise-de-Performance-Comercial)
+🔗 [Ver projeto](https://github.com/alanbernardo/An-ilise-de-Performance-Comercial)
 
 ---
 
