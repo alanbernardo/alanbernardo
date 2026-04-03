@@ -28,6 +28,21 @@ Tenho experiência prática no desenvolvimento de análises utilizando **SQL, Ex
 
 ## 🚀 Projetos em Destaque
 
+📊 Dashboard de Performance de Receita (SQL + Power BI)
+
+Projeto completo de análise de dados com foco em performance de receita, combinando modelagem em SQL (PostgreSQL) e construção de dashboard interativo no Power BI.
+
+Modelagem relacional (clientes, pedidos, produtos e categorias)
+Criação de métricas de negócio (receita, ticket médio, ranking de clientes)
+Uso de SQL com JOINs, CTE e views analíticas
+Integração PostgreSQL com Power BI
+Construção de dashboard com KPIs, filtros e visualizações estratégicas
+Geração de insights e recomendações para tomada de decisão
+
+🔗 Ver projeto: (https://github.com/alanbernardo/An-ilise-de-Performance-Comercial)
+
+---
+
 ### 📊 Dashboard de Desempenho Comercial – Varejo (SQL + Power BI)
 Projeto completo de BI com modelagem de dados, consultas SQL e construção de dashboard interativo.
 
@@ -39,7 +54,7 @@ Projeto completo de BI com modelagem de dados, consultas SQL e construção de d
 
 ---
 
-📊 Data Quality & Outlier Detection (Power BI)
+## 📊 Data Quality & Outlier Detection (Power BI)
 
 Projeto focado na melhoria da qualidade de dados através de análise estatística e identificação de outliers para suporte à tomada de decisão
 
