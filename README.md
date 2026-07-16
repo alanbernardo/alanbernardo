@@ -32,12 +32,13 @@ Projeto completo de Business Intelligence desenvolvido sobre uma base real de e-
 
 O projeto permite acompanhar indicadores estratégicos como faturamento, ticket médio, clientes únicos, categorias de produtos e formas de pagamento por meio de análises interativas.
 
-Principais entregas
-Modelagem relacional utilizando PostgreSQL
-Consultas SQL com JOINs, agregações e análises exploratórias
-Construção de métricas em DAX
-Dashboard executivo desenvolvido no Power BI
-Documentação técnica completa no GitHub
+📌 Principais entregas
+
+• Modelagem relacional utilizando PostgreSQL
+• Consultas SQL com JOINs, agregações e análises exploratórias
+• Construção de métricas em DAX
+• Dashboard executivo desenvolvido no Power BI
+• Documentação técnica completa no GitHub
 
 🔗 [Ver projeto](https://github.com/alanbernardo/powerbi-ecommerce-dashboard)
 
