@@ -26,6 +26,23 @@ Tenho experiência prática no desenvolvimento de análises utilizando **SQL, Ex
 
 ---
 
+📊 Dashboard Executivo Comercial – E-commerce (PostgreSQL + Power BI)
+
+Projeto completo de Business Intelligence desenvolvido sobre uma base real de e-commerce, contemplando desde a modelagem dos dados em PostgreSQL até a construção de um dashboard executivo no Power BI.
+
+O projeto permite acompanhar indicadores estratégicos como faturamento, ticket médio, clientes únicos, categorias de produtos e formas de pagamento por meio de análises interativas.
+
+Principais entregas
+Modelagem relacional utilizando PostgreSQL
+Consultas SQL com JOINs, agregações e análises exploratórias
+Construção de métricas em DAX
+Dashboard executivo desenvolvido no Power BI
+Documentação técnica completa no GitHub
+
+🔗 [Ver projeto](https://github.com/alanbernardo/powerbi-ecommerce-dashboard)
+
+---
+
 ## 🚀 Projetos em Destaque
 
 📊 Dashboard de Performance de Receita (SQL + Power BI)
