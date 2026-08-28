@@ -14,15 +14,30 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-# 👋 Olá, eu sou o Alan Bernardo
+ALAN BERNARDO | GESTÃO DE PROJETOS & PMO
 
-🎯 Analista de BI (Business Intelligence) focado em transformar dados em insights estratégicos para tomada de decisão.
+EXCEL • POWER BI • SQL • ANÁLISE DE DADOS
 
-Tenho experiência prática no desenvolvimento de análises utilizando **SQL, Excel, Power BI e Python**, com foco em:
-- Modelagem de dados
-- Construção de dashboards
-- Análise exploratória
-- Geração de KPIs e métricas de negócio
+🚀 Competências
+
+Gestão de Projetos | PMO | Excel | Power BI
+
+👋 Olá, eu sou o Alan Bernardo
+
+🎯 Profissional com experiência em áreas administrativas e formação em Análise e Desenvolvimento de Sistemas, atualmente direcionando minha carreira para Gestão de Projetos e PMO.
+
+Tenho experiência prática em ambientes corporativos, com atuação em áreas como vendas, financeiro, logística e compras, além de conhecimentos em Excel, Power BI e SQL, que utilizo para análise de informações, acompanhamento de indicadores e apoio à tomada de decisão.
+
+Atualmente venho desenvolvendo meus conhecimentos com foco em:
+
+- Gestão de projetos
+- Planejamento e acompanhamento de atividades
+- Cronogramas e prazos
+- Gestão de riscos
+- Stakeholders
+- Indicadores e KPIs
+- Scrum e Kanban
+- Excel e Power BI aplicados à gestão
 
 ---
 
