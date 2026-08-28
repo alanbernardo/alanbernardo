@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Alan%20Bernardo-Analista%20de%20BI-4c9aff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGAAAAAEAAGjCh0EAAAAAElFTkSuQmCC&logoColor=white" height="70"/>
+  <img src="https://img.shields.io/badge/Alan%20Bernardo-Gest%C3%A3o%20de%20Projetos%20%26%20PMO-4c9aff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGAAAAAEAAGjCh0EAAAAAElFTkSuQmCC&logoColor=white" height="70"/>
 </p>
 
 <p align="center">
