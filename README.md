@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Alan Bernardo
+<h1 align="center">👋 Olá, eu sou o Alan Bernardo</h1>
 
 <p align="center">
   <strong>GESTÃO DE PROJETOS • PMO • PLANEJAMENTO • INDICADORES</strong>
