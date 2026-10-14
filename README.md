@@ -1,47 +1,171 @@
+# 👋 Olá, eu sou o Alan Bernardo
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Alan%20Bernardo-Gest%C3%A3o%20de%20Projetos%20%26%20PMO-4c9aff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGAAAAAEAAGjCh0EAAAAAElFTkSuQmCC&logoColor=white" height="70"/>
+  <strong>GESTÃO DE PROJETOS • PMO • PLANEJAMENTO • INDICADORES</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20•%20Excel%20•%20Python%20•%20Power%20BI-00c853?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/KANBAN-4A90E2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/PROJECT%20MANAGEMENT-6C63FF?style=for-the-badge">
 </p>
 
-## 🚀 Tecnologias
+---
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🧭 Gestão de Projetos & PMO
 
+Profissional em transição para **Gestão de Projetos e PMO**, com experiência anterior em ambientes corporativos e formação em Análise e Desenvolvimento de Sistemas.
 
-ALAN BERNARDO | GESTÃO DE PROJETOS & PMO
+Atualmente, direciono meu desenvolvimento profissional para atividades relacionadas a:
 
-EXCEL • POWER BI • SQL • ANÁLISE DE DADOS
-
-🚀 Competências
-
-Gestão de Projetos | PMO | Excel | Power BI
-
-👋 Olá, eu sou o Alan Bernardo
-
-🎯 Profissional com experiência em áreas administrativas e formação em Análise e Desenvolvimento de Sistemas, atualmente direcionando minha carreira para Gestão de Projetos e PMO.
-
-Tenho experiência prática em ambientes corporativos, com atuação em áreas como vendas, financeiro, logística e compras, além de conhecimentos em Excel, Power BI e SQL, que utilizo para análise de informações, acompanhamento de indicadores e apoio à tomada de decisão.
-
-Atualmente venho desenvolvendo meus conhecimentos com foco em:
-
-- Gestão de projetos
-- Planejamento e acompanhamento de atividades
+- Planejamento e acompanhamento de projetos
 - Cronogramas e prazos
 - Gestão de riscos
 - Stakeholders
 - Indicadores e KPIs
-- Scrum e Kanban
-- Excel e Power BI aplicados à gestão
+- Status Report
+- Acompanhamento de entregas
+- Melhoria de processos
+
+Minha experiência anterior com dados e Business Intelligence complementa esse perfil, principalmente no acompanhamento de **indicadores, Excel, Power BI e suporte à tomada de decisão**.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🧩 Competências em Gestão de Projetos
+
+- Gestão de Projetos
+- PMO
+- Planejamento e acompanhamento de atividades
+- Escopo
+- Cronogramas e prazos
+- Dependências entre atividades
+- EAP / WBS
+- Termo de Abertura do Projeto — TAP / Project Charter
+- Gestão de riscos
+- Gestão de stakeholders
+- Indicadores e KPIs
+- Status Report
+- Kanban
+- Scrum
+- Abordagens preditiva, ágil e híbrida
+- Acompanhamento de entregas
+
+---
+
+## 🛠️ Gestão de Projetos & Ferramentas
+
+### Ferramentas utilizadas
+
+<p>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/KANBAN-4A90E2?style=flat-square">
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white">
+</p>
+
+### 📚 Em desenvolvimento
+
+<p>
+  <img src="https://img.shields.io/badge/MICROSOFT%20PROJECT-107C41?style=flat-square">
+  <img src="https://img.shields.io/badge/MICROSOFT%20PLANNER-31752F?style=flat-square">
+  <img src="https://img.shields.io/badge/TRELLO-0052CC?style=flat-square&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/POWERPOINT-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white">
+</p>
+
+### Conhecimentos complementares
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/ANÁLISE%20DE%20DADOS-555555?style=flat-square">
+</p>
+
+---
+
+# 🚀 Projetos de Gestão de Projetos & PMO
+
+## 📌 Implantação de Sistema de Atendimento
+
+Projeto de portfólio desenvolvido para aplicar, de forma prática, conceitos e ferramentas de **Gerenciamento de Projetos** em um cenário fictício de implantação de uma nova solução corporativa de atendimento.
+
+O projeto foi estruturado desde a iniciação até o planejamento do go-live, simulando atividades típicas de um **Analista de Projetos / PMO**.
+
+### 🎯 Objetivo
+
+Implantar uma solução centralizada de atendimento que permita registrar, acompanhar e gerenciar demandas com maior organização, rastreabilidade e eficiência.
+
+### 📋 Principais entregas
+
+- Termo de Abertura do Projeto — TAP
+- Definição de objetivo e critérios de sucesso
+- Identificação e análise de stakeholders
+- Definição de escopo
+- EAP / WBS
+- Estruturação de épicos, tarefas e subtarefas
+- Cronograma
+- Dependências entre atividades
+- Linha do tempo do projeto
+- Matriz de riscos
+- Matriz de stakeholders
+- Status Report
+- Planejamento de testes e homologação
+- Planejamento de treinamento e implantação
+- Planejamento do go-live
+
+### 🧩 Estrutura do projeto
+
+**1. Iniciação do Projeto**
+
+**2. Requisitos e Seleção da Solução**
+
+**3. Configuração da Solução**
+
+**4. Migração de Dados**
+
+**5. Testes e Homologação**
+
+**6. Treinamento e Implantação**
+
+### 🛠️ Ferramentas e práticas utilizadas
+
+`Jira` `Kanban` `EAP/WBS` `Cronograma` `Gestão de Riscos` `Stakeholders` `Status Report` `Dependências`
+
+### 💡 Decisões de planejamento
+
+O levantamento de requisitos dos usuários e o levantamento técnico foram planejados para ocorrer em paralelo, pois não possuem dependência direta entre si.
+
+A definição dos critérios de avaliação da solução, entretanto, depende da conclusão dos dois levantamentos.
+
+Durante a configuração da solução, diferentes atividades também foram estruturadas em paralelo para otimizar o cronograma, convergindo posteriormente para uma etapa de validação.
+
+### 📈 Competências demonstradas
+
+- Estruturação de projetos
+- Planejamento
+- Organização de entregas
+- Gestão de dependências
+- Acompanhamento de cronograma
+- Gestão de riscos
+- Stakeholder management
+- Comunicação executiva
+- Acompanhamento por indicadores
+- Jira e Kanban
+
+📎 **Projeto completo em breve**
+
+> Projeto fictício desenvolvido para fins de estudo e portfólio profissional, simulando atividades e responsabilidades comuns em Gestão de Projetos e PMO.
+
+---
+
+# 📊 Projetos anteriores — Business Intelligence & Dados
+
+Minha trajetória anterior inclui projetos de análise de dados e Business Intelligence, que contribuíram para desenvolver competências analíticas que hoje utilizo como diferencial em Gestão de Projetos.
+
+---
 
 📊 Dashboard Executivo Comercial – E-commerce (PostgreSQL + Power BI)
 
